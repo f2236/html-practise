@@ -1,0 +1,59 @@
+p1{
+    color:blue;
+    
+}
+body{
+    background-color: white;
+}
+button{
+    color:rgb(241, 238, 8);
+    background-color:black;
+
+}
+#one{
+    color:brown;
+    text-align: center;
+}
+#two{
+    color:blue;
+    text-align: center;
+}
+#three{
+    color:blue
+    text-align: center;
+}
+#practise{
+    background-color: blue;
+    text-decoration: dotted;
+    text-transform: capitalize;
+    position: foxed;
+    top:0%;
+    border: 50px;
+
+}
+#div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    
+}
+#con{
+    width: 800px;
+    height: 400px;
+    border: solid black;
+    display: flex;
+    flex-direction: column-reverse;
+}
+#div1{
+    background-color: blue;
+}
+#div2{
+    background-color: aqua;
+
+}
+#div3{
+    background-color: brown;
+}
+#div4{
+    background-color: blueviolet;
+}
